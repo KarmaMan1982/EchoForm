@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10.10.2017, 10:40:06
+    Author     : markus
+*/
+#frmAddition {
+    width: 100%;
+}
+#frmAddition form {
+    width: 100%;
+}
+#btAddition{
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+}
